@@ -2,7 +2,7 @@
 
 In today's lecture, we walked through how to find a library and figure out how to set it up in a project which uses a [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) to fetch trade information about Bitcoins in real-time.
 
-If everything went according to plan during the lecture, you should have a project with some sort of graph which visualizes the current trade price of Bitcoin.
+If everything went according to plan during the lecture, we should have used this assignment as a base, and you should have a project with some sort of graph which visualizes the current trade price of Bitcoin.
 
 This assignment is to take that project, and polish it. What you choose to do is up to you; there's a lot more data in the payload which the WebSocket sends (such as bid price, ask price, 24h high, and 24h low prices). You should use some of these data points to add more to your graph, or set up a secondary graph, or visualize the data in some other way!
 
